@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nafs Tebda2
+
+This log tracks the cryptographic history and versioning for the song **Nafs Tebda2** (nafs-tebda2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:06:37.800792 | `v1` | `aa84334c6535a018378b146f7025fbf46f206ac28bd50cad39b8a1f1ecc3d3ec` | `6945de1488ee6f3ec730109268d9163761af9be0c0a35f435b5a8e7009f22869` | `2026-05-09_nafs-tebda2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
